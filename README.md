@@ -25,16 +25,16 @@ This tool helps you keep track of your **income**, **expenses**, and **overall b
 > Replace the below placeholders with your actual screenshots.
 
 1. **Welcome / Login Page**  
-   ![Login Page](screenshot1.png)
+   ![Login Page](login.png)
 
 2. **Main Tracker Interface**  
-   ![Main Tracker](screenshot2.png)
+   ![Main Tracker](MainPage.png)
 
 3. **Adding a Transaction**  
-   ![Add Transaction](screenshot3.png)
+   ![Add Transaction](Main-value.png)
 
 4. **Responsive Design (Mobile View)**  
-   ![Mobile View](screenshot4.png)
+   ![Mobile View](mobileresponsive.png)
 
 ---
 
